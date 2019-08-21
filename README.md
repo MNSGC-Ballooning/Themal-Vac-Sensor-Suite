@@ -8,13 +8,15 @@ based upon pressure.
 
 **CoolTerm - a Serial Monitor for Radio Usage**
 
-Used preferably with the CoolTerm software, which is found [here](http://freeware.the-meiers.org/). 
+- Used preferably with the CoolTerm software, which is found [here](http://freeware.the-meiers.org/). 
 
-To remove the buffer on CoolTerm, open the software and click on "Options". Then click on "Receive".
-In the "Receive" page, under "Receive Options", there is an input box next to "Receive Buffer Size".
-Change the "Receive Buffer Size" from 10000 to 2147483647. (This doesn't techincally remove the buffer,
-but instead changes its size to 2 gigabytes.) Then go to "File" and then to "Save As", and save the settings 
-as a shortcut on your desktop. When opening CoolTerm from now on, use this shortcut. 
+- To remove the buffer on CoolTerm, open the software and click on "Options". 
+- Then click on "Receive".
+- In the "Receive" page, under "Receive Options", there is an input box next to "Receive Buffer Size".
+- Change the "Receive Buffer Size" from 10000 to 2147483647. 
+- (This doesn't techincally remove the buffer, but instead changes its size to 2 gigabytes.) 
+- Then go to "File" and then to "Save As", and save the settings as a shortcut on your desktop. 
+- When opening CoolTerm from now on, use this shortcut. 
 
 **Libraries:**
 
