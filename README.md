@@ -9,6 +9,7 @@ based upon pressure.
 **CoolTerm - a Serial Monitor for Radio Usage**
 
 - Used preferably with the CoolTerm software, which is found [here](http://freeware.the-meiers.org/). 
+- CoolTerm can be used by plugging a USB-XBee adapter into the computer running CoolTerm, which communicates with another XBee connected to a microcontroller.
 - Removing the buffer on CoolTerm:
   - To remove the buffer on CoolTerm, open the software and click on "Options". 
   - Then click on "Receive".
