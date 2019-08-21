@@ -6,6 +6,8 @@ and includes Honeywell pressure sensors, Adafruit thermocouples, XBee radio comm
 fans and heating mesh, the ability to input both commands and external pressure readings, and a predicted alititude
 based upon pressure.
 
+**CoolTerm - a Serial Monitor for Radio Usage**
+
 Used preferably with the CoolTerm software, which is found [here](http://freeware.the-meiers.org/). 
 
 To remove the buffer on CoolTerm, open the software and click on "Options". Then click on "Receive".
