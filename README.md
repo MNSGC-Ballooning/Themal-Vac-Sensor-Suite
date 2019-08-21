@@ -6,12 +6,10 @@ and includes Honeywell pressure sensors, Adafruit thermocouples, XBee radio comm
 fans and heating mesh, the ability to input both commands and external pressure readings, and a predicted alititude
 based upon pressure.
 
-
 **Required Libraries for most recent version:**
 - <Adafruit_MAX31856.h> 
   - Adafruit thermocouple library
   - Found [here](https://github.com/adafruit/Adafruit_MAX31856).
-
 
 **Required Libraries for older versions:**
 - <i2c_t3.h>
