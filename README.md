@@ -6,12 +6,14 @@ and includes Honeywell pressure sensors, Adafruit thermocouples, XBee radio comm
 fans and heating mesh, the ability to input both commands and external pressure readings, and a predicted alititude
 based upon pressure.
 
-**Required Libraries for most recent version**
+
+**Required Libraries for most recent version:**
 - <Adafruit_MAX31856.h> 
   - Adafruit thermocouple library
   - Found [here](https://github.com/adafruit/Adafruit_MAX31856).
 
-**Required Libraries for older versions**
+
+**Required Libraries for older versions:**
 - <i2c_t3.h>
   - Enhanced I2C library for Teensy 3.x (used with Parallax Altimeter)
   - Found [here](https://github.com/nox771/i2c_t3).
